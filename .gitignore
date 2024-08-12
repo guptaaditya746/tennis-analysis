@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore the yolov8x.pt file
+yolov8x.pt
+
+# Ignore directories
+bin/
+build/
+target/
